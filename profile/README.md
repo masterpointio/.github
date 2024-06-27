@@ -1,23 +1,7 @@
-## 👋 🌊 👋 Hello from Masterpoint! 👋 🌊 👋
+## Hello from Masterpoint!
 
-[![Masterpoint Consulting](https://masterpoint-public.s3.us-west-2.amazonaws.com/social-media-logo.png)](https://masterpoint.io)
+If your current IaC workflow is slowing down your time to delivery, we’re here to help. At Masterpoint, we partner with growing engineering organizations to help teams get control of IaC, no matter where you’re provisioning your infrastructure. 
 
-### 💡 Who are we?
+Ready to get a standardized, predictable, and efficient infrastructure management process? Head over to our website to schedule your free assessment. Check us out and get in touch via [masterpoint.io](https://masterpoint.io) 💌
 
-Masterpoint builds cloud platforms of the highest quality to empower our clients to focus on their application and customers.
-
-We're a consulting agency focused on delivering the best AWS platforms out there for statups.
-
-We get your cloud journey started (or restarted) on the right foot 👟
-
-### 🧑‍💻 What we do?
-
-Masterpoint builds your cloud platform on well-known, easy-to-understand Infrastructure as Code that is simple to extend 🚀
-
-### 📈 What you get?
-
-We deliver rock solid cloud infrastructure that is easily maintainable, scalable, secure, and built to last 🏰
-
-### ❓ Want to learn more?
-
-Check us out and get in touch via [masterpoint.io](https://masterpoint.io) 💌
+[![Masterpoint Consulting](https://masterpoint-public.s3.us-west-2.amazonaws.com/v2/standard-long-fullcolor.png)](https://masterpoint.io)
