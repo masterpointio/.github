@@ -1,10 +1,12 @@
 [![Masterpoint Consulting](https://masterpoint-public.s3.us-west-2.amazonaws.com/v2/standard-long-fullcolor.png)](https://masterpoint.io)
 
-## Hello from Masterpoint!
+## Master Your Infrastructure as Code.
 
-If your current IaC workflow is slowing down your time to delivery, we’re here to help. At Masterpoint, we partner with growing engineering organizations to help teams get control of IaC, no matter where you’re provisioning your infrastructure.
+At Masterpoint, we untangle your IaC, embed proven workflow , and upskill your team with training, tools, and an IaC Workflow Library — all so you can own and scale your infrastructure with confidence.
 
-Ready to get a standardized, predictable, and efficient infrastructure management process? Curious how we can help your team? Head over to our [website](https://masterpoint.io) to schedule your free assessment 💌
+Tired of IaC drift, slow or failed applies, spaghetti configurations, and tedious infrastructure maintenance?
+
+[Head over to our website](https://masterpoint.io) to schedule your free assessment 💌
 
 ## Who We Are 𐦂𖨆𐀪𖠋
 
@@ -12,7 +14,7 @@ Established in 2016, Masterpoint is a team of experienced software and platform 
 
 ### Our Mission
 
-Our mission is to simplify cloud infrastructure so developers can innovate faster, safer, and with greater confidence. By open-sourcing tools and modules that we use internally, we aim to contribute back to the community, promoting consistency, quality, and security.
+Our mission is to simplify cloud infrastructure so engineering orgs can innovate faster, safer, and with greater confidence. By open-sourcing tools and modules that we use internally, we aim to contribute back to the community, promoting consistency, quality, and security.
 
 ### Our Commitments
 
