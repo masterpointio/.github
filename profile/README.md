@@ -2,7 +2,7 @@
 
 ## Master Your Infrastructure as Code.
 
-At Masterpoint, we untangle your IaC, embed proven workflow , and upskill your team with training, tools, and an IaC Workflow Library — all so you can own and scale your infrastructure with confidence.
+At Masterpoint, we untangle your IaC, embed proven workflows, and upskill your team with training, tools, and an IaC Workflow Library — all so you can own and scale your infrastructure with confidence.
 
 Tired of IaC drift, slow or failed applies, spaghetti configurations, and tedious infrastructure maintenance?
 
